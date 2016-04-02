@@ -2,3 +2,6 @@
 <p> That's Firestar, leader of Thunderclan and mentor to Skyclan. </p>
 <img src = "http://mobile.pokemonshuffle.com/_ui/img/global/tiles/sm_espurr.png"/>
 <p> I also a pokemanaic, so here's espurr.
+
+<a href="http://wardrobe.jellyneo.net/build-a-species/"><img src="http://share.jellyneo.net/buildspecies/14595626449998.png" title="Create Your Own!"></a>
+This is an Acara made using build your own species.
