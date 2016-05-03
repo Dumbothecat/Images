@@ -7,3 +7,6 @@
 <p>This is an Acara made using build your own species. </p>
 
 <img src="http://images.neopets.com/faerieland/air_faerie_icon.gif">  <p> I'm most like a air faerie! What about you? </p>
+
+<img src="http://media.pldh.net/gallery/the493/swampert.jpg" alt="swampert" />
+<p> Swampert! </p>
